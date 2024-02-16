@@ -1,0 +1,11 @@
+.nav{
+    height: 100px;
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+    color: aquamarine;
+    justify-content: space-between;
+    display: flex;
+    background-color: black;
+
+}
